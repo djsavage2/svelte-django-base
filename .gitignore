@@ -7,5 +7,6 @@ svelte-app/build/*
 __pycache__/
 *.py[cod]
 *$py.class
+local_settings.py
 
 db.sqlite3
