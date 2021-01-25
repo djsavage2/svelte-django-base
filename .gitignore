@@ -1,0 +1,11 @@
+# web
+svelte-app/node_modules/*
+svelte-app/build/*
+
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+db.sqlite3
