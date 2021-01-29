@@ -37,14 +37,14 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Svelte + Sapper + Django</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Way To Go!</h1>
 
 <figure>
 	<img alt="Success Kid" src="{successkid}">
-	<figcaption>Have fun with Sapper!</figcaption>
+	<figcaption>You managed to change some things around!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>The live reloading with Sapper is ridiculous!</strong></p>
